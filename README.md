@@ -9,3 +9,5 @@ Ejercicios:
 4. Dados dos números, calcular su máximo común divisor
 5. Comprobar si un número es un número de Armstrong
 6. Dado un string, darle la vuelta sin utilizar el método reverse
+7. Calcular total con paquetes de arroz de 1, 3 y 5 Kilos
+8. Extra: Piedra papel tijera
